@@ -1,4 +1,4 @@
-## Sistema de gerenciamento de usuarios e clientes de um salão de beleza
+# Sistema de gerenciamento de usuários e clientes de um salão de beleza.
 
 ## Tech Stack
 
